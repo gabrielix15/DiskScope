@@ -1,32 +1,24 @@
-# DiskScope Software License
+BSD 2-Clause License
 
-**Copyright © 2026 Gabriel. All Rights Reserved.**
+Copyright (c) 2026, gabrielix15
 
----
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-> ### 🚨 OFFICIAL SOURCE ONLY
-> **DiskScope is ONLY released on this official GitHub repository.**  
-> Any copy found on another website, forum, or download portal is **unofficial, unauthorized, and may contain malware**.  
-> Always verify the **SHA-256 hash** on the **Releases** page before opening `DiskScope.exe`.
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
 
----
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
 
-## What You Can Do
-
-- **Download Official Builds:** Download the official, unmodified `DiskScope.exe` directly from this GitHub repository's **Releases** page.
-- **Run on Windows:** Use the official binary on Windows 10/11 PCs for personal, educational, or internal business use.
-
----
-
-## What You Cannot Do
-
-- **No Modifying or Reverse-Engineering:** You may **not** modify, patch, decompile, disassemble, or create derivative versions of `DiskScope.exe`.
-- **No Re-Uploading Elsewhere:** You may **not** re-upload, mirror, bundle, or distribute `DiskScope.exe` on any website, forum, or platform outside this official GitHub repository.
-- **No Removing Credits or Hashes:** You may **not** remove or alter copyright notices, author credits (`Gabriel`), or SHA-256 verification details.
-
----
-
-## Safety & Disclaimer
-
-- **Verify Before Running:** You are responsible for checking the official **SHA-256 checksum** and double-checking target drives before confirming any format operation.
-- **No Warranty:** `DiskScope.exe` is provided **"AS IS"** without warranty of any kind. The author (**Gabriel**) is not liable for data loss, drive damage, or harm caused by unauthorized third-party copies.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
