@@ -1,68 +1,32 @@
-DISKSCOPE SOFTWARE LICENSE AGREEMENT
-Copyright (c) 2026 Gabriel. All Rights Reserved.
+# DiskScope Software License
 
-================================================================================
-1. EXCLUSIVE OFFICIAL DISTRIBUTION
-================================================================================
-DiskScope is developed and distributed EXCLUSIVELY by the author ("Gabriel")
-through this official GitHub repository.
+**Copyright © 2026 Gabriel. All Rights Reserved.**
 
-The author does NOT publish, mirror, or distribute DiskScope on any third-party
-website, download portal, forum, torrent, or external repository. Any copy of
-DiskScope obtained outside this official GitHub repository—or any binary whose
-SHA-256 checksum does not match the official hash published on this repository's
-Releases page—is unauthorized, potentially tampered with, and strictly prohibited.
+---
 
-================================================================================
-2. GRANT OF LICENSE (WHAT YOU ARE ALLOWED TO DO)
-================================================================================
-Subject to your compliance with the terms of this Agreement, the author grants
-you a free, non-exclusive, non-transferable, revocable license to:
-  (a) Download the official, unmodified DiskScope executable directly from this
-      GitHub repository's Releases section; and
-  (b) Install and run the official, unmodified binary on Windows 10/11 systems
-      for personal, educational, or internal business use.
+> ### 🚨 OFFICIAL SOURCE ONLY
+> **DiskScope is ONLY released on this official GitHub repository.**  
+> Any copy found on another website, forum, or download portal is **unofficial, unauthorized, and may contain malware**.  
+> Always verify the **SHA-256 hash** on the **Releases** page before opening `DiskScope.exe`.
 
-================================================================================
-3. STRICT PROHIBITIONS (WHAT YOU ARE NOT ALLOWED TO DO)
-================================================================================
-You may NOT, under any circumstances, without prior explicit written permission
-from the author:
-  (a) Modify, patch, alter, translate, adapt, or create derivative works based
-      on DiskScope or any portion thereof;
-  (b) Decompile, disassemble, reverse-engineer, or attempt to extract or
-      reconstruct source code, algorithms, or internal structures from the
-      compiled binary;
-  (c) Re-upload, mirror, redistribute, sublicense, bundle, wrap in third-party
-      installers, or host modified or unmodified copies of DiskScope on any
-      external website, file-sharing service, or repository;
-  (d) Remove, obscure, or alter any copyright notices, author attributions, or
-      integrity verification information associated with DiskScope.
+---
 
-================================================================================
-4. INTEGRITY & SAFETY RESPONSIBILITY
-================================================================================
-Because DiskScope performs low-level storage inspection, volume formatting, and
-pre-wipe file backups, users are strictly responsible for:
-  (a) Verifying the official SHA-256 checksum prior to executing DiskScope.exe;
-  (b) Reviewing target drive selections and confirming volume contents before
-      executing any format operation.
+## What You Can Do
 
-================================================================================
-5. OWNERSHIP
-================================================================================
-DiskScope is licensed, not sold. All title, ownership rights, and intellectual
-property rights in and to DiskScope remain the sole property of Gabriel.
+- **Download Official Builds:** Download the official, unmodified `DiskScope.exe` directly from this GitHub repository's **Releases** page.
+- **Run on Windows:** Use the official binary on Windows 10/11 PCs for personal, educational, or internal business use.
 
-================================================================================
-6. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
-================================================================================
-DISKSCOPE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+---
 
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION,
-LOSS OF DATA, CORRUPTED VOLUMES, HARDWARE DAMAGE, OR SYSTEM COMPROMISE FROM
-UNAUTHORIZED THIRD-PARTY COPIES) ARISING IN ANY WAY OUT OF THE USE OR INABILITY
-TO USE THIS SOFTWARE.
+## What You Cannot Do
+
+- **No Modifying or Reverse-Engineering:** You may **not** modify, patch, decompile, disassemble, or create derivative versions of `DiskScope.exe`.
+- **No Re-Uploading Elsewhere:** You may **not** re-upload, mirror, bundle, or distribute `DiskScope.exe` on any website, forum, or platform outside this official GitHub repository.
+- **No Removing Credits or Hashes:** You may **not** remove or alter copyright notices, author credits (`Gabriel`), or SHA-256 verification details.
+
+---
+
+## Safety & Disclaimer
+
+- **Verify Before Running:** You are responsible for checking the official **SHA-256 checksum** and double-checking target drives before confirming any format operation.
+- **No Warranty:** `DiskScope.exe` is provided **"AS IS"** without warranty of any kind. The author (**Gabriel**) is not liable for data loss, drive damage, or harm caused by unauthorized third-party copies.
